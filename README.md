@@ -18,7 +18,7 @@ That work lives in private client repositories, so it doesn't show up here.
 
 **Side projects** (open source, and each runs in your browser):
 
-- **[Traffic Sandbox](https://github.com/vishwadeep-solves-conflicts/traffic-sandbox)**: traffic simulator: draw roads, time signals, build flyovers, import a real OpenStreetMap area · [try it](https://vishwadeep-solves-conflicts.github.io/traffic-sandbox/)
+- **[Traffic Sandbox](https://github.com/vishwadeep-solves-conflicts/traffic-sandbox)**: a traffic simulator where you draw roads, time signals, build flyovers or import a real OpenStreetMap area · [try it](https://vishwadeep-solves-conflicts.github.io/traffic-sandbox/)
 - **[Private Commit Heatmap](https://github.com/vishwadeep-solves-conflicts/private-commit-heatmap)**: the tool behind the graph above, turning private-repo commits into a GitHub-style heatmap · [try it](https://vishwadeep-solves-conflicts.github.io/private-commit-heatmap/)
 - **[India City Livability Index](https://github.com/vishwadeep-solves-conflicts/india-livability-index)**: 20 cities, 17 factors, four personas, adjustable weights · [try it](https://vishwadeep-solves-conflicts.github.io/india-livability-index/)
 - **[The Group Wants to Guess](https://github.com/vishwadeep-solves-conflicts/group-wants-to-guess)**: living-room party quiz with rounds, a scoreboard and timers · [try it](https://vishwadeep-solves-conflicts.github.io/group-wants-to-guess/)
