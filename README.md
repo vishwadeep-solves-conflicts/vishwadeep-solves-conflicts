@@ -18,12 +18,10 @@ That work lives in private client repositories, so it doesn't show up here.
 
 **Side projects** (open source, and each runs in your browser):
 
-| | | |
-|---|---|---|
-| [Traffic Sandbox](https://github.com/vishwadeep-solves-conflicts/traffic-sandbox) | Traffic simulator: draw roads, time signals, build flyovers, import a real OpenStreetMap area | [Try it](https://vishwadeep-solves-conflicts.github.io/traffic-sandbox/) |
-| [Private Commit Heatmap](https://github.com/vishwadeep-solves-conflicts/private-commit-heatmap) | The tool behind the graph above: private-repo commits as a GitHub-style heatmap | [Try it](https://vishwadeep-solves-conflicts.github.io/private-commit-heatmap/) |
-| [India City Livability Index](https://github.com/vishwadeep-solves-conflicts/india-livability-index) | 20 cities, 17 factors, four personas, adjustable weights | [Try it](https://vishwadeep-solves-conflicts.github.io/india-livability-index/) |
-| [The Group Wants to Guess](https://github.com/vishwadeep-solves-conflicts/group-wants-to-guess) | Living-room party quiz with rounds, scoreboard and timers | [Try it](https://vishwadeep-solves-conflicts.github.io/group-wants-to-guess/) |
+- **[Traffic Sandbox](https://github.com/vishwadeep-solves-conflicts/traffic-sandbox)**: traffic simulator: draw roads, time signals, build flyovers, import a real OpenStreetMap area · [try it](https://vishwadeep-solves-conflicts.github.io/traffic-sandbox/)
+- **[Private Commit Heatmap](https://github.com/vishwadeep-solves-conflicts/private-commit-heatmap)**: the tool behind the graph above, turning private-repo commits into a GitHub-style heatmap · [try it](https://vishwadeep-solves-conflicts.github.io/private-commit-heatmap/)
+- **[India City Livability Index](https://github.com/vishwadeep-solves-conflicts/india-livability-index)**: 20 cities, 17 factors, four personas, adjustable weights · [try it](https://vishwadeep-solves-conflicts.github.io/india-livability-index/)
+- **[The Group Wants to Guess](https://github.com/vishwadeep-solves-conflicts/group-wants-to-guess)**: living-room party quiz with rounds, a scoreboard and timers · [try it](https://vishwadeep-solves-conflicts.github.io/group-wants-to-guess/)
 
 **Stack:** Node.js · Express · NestJS · PostgreSQL · Sequelize · BullMQ · Redis · React · Vite · TypeScript · Jest · Vitest · Azure · AWS S3
 
